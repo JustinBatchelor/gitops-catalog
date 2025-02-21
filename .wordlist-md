@@ -9,14 +9,17 @@ Alertmanager
 AmazonS
 AmazonSageMakerFullAccess
 Ansible
+Apicurio
 ArgoCD
 ArgoCD's
 Authorino
+AutoCreateUserSchema
 Bitnami
 CICD
 CRD
 CRDs
 CheCluster
+ClusterIssuer
 ClusterPolicy
 ClusterRoleBindings
 ClusterTask
@@ -56,6 +59,7 @@ KieApp
 Koku
 KokuMetricsConfig
 Kubernetes
+Kueue
 Kyverno
 LDAP
 LVM
@@ -94,6 +98,7 @@ SDKs
 SNO
 SSO
 Sagemaker
+Schemas
 SecretManager
 SecureCluster
 ServiceMesh
@@ -112,9 +117,11 @@ Tekton
 TempoMonolithic
 TempoStack
 Thanos
+TrustyAI
 UI
 VolSync
 Workspaces
+XAI
 Zipkin
 ack
 acm
@@ -202,7 +209,9 @@ linux
 machineset
 microservices
 mig
+modelregistry
 namespace
+namespaced
 namespaces
 newman
 nfd
@@ -224,6 +233,7 @@ operatorGroups
 patchesJson
 performant
 postgres
+postgresql
 pre
 prem
 prometheus
@@ -235,10 +245,12 @@ rh
 rhel
 rhoai
 rhpds
+rolebinding
 runtime
 sagemaker
 sandboxed
 scalable
+schemas
 secretGenerator
 seldon
 selectable
@@ -254,6 +266,7 @@ thanos
 traefik
 triton
 truly
+trustyai
 vSphere
 vscode
 vsphere
