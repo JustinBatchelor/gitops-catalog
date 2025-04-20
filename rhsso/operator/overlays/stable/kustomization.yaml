@@ -15,10 +15,17 @@ patches:
     target:
       kind: Subscription
       name: rhsso-operator
-  - patch: |-
       - op: replace
         path: /spec/installPlanApproval
         value: 'Automatic'
     target:
       kind: Subscription
       name: rhsso-operator
+
+  # - patch: |-
+  #     - op: replace
+  #       path: /spec/installPlanApproval
+  #       value: 'Automatic'
+  #   target:
+  #     kind: Subscription
+  #     name: rhsso-operator
